@@ -111,7 +111,6 @@
 				A8B281CD9AD87E88433CC2AD /* Pods-TravisTestTests.debug.xcconfig */,
 				5D5EF48520B925E12BB35DBF /* Pods-TravisTestTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -555,7 +554,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = tre.trialapp.cn.TravisTest;
+				PRODUCT_BUNDLE_IDENTIFIER = test.altplus.trial.cn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -574,7 +573,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = tre.trialapp.cn.TravisTest;
+				PRODUCT_BUNDLE_IDENTIFIER = test.altplus.trial.cn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
